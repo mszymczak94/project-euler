@@ -26,3 +26,15 @@ def is_prime(n: int) -> bool:
             return False
         i += 6
     return True
+
+
+def is_palindrome(n: str) -> bool:
+    length = len(n)
+    last_char = len(n) - 1
+    for char in n:
+        if char != n[last_char]:
+            return False
+        last_char -= 1
+        if last_char < length//2:
+            break
+    return True

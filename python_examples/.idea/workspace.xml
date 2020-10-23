@@ -20,13 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db8d9a22-ab47-462f-bf14-694e3b510577" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../java-examples/src/com/szymczak/task3/Problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-examples/src/com/szymczak/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task3/problem_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-examples/src/com/szymczak/task4/Problem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4/problem_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-examples/src/com/szymczak/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-examples/src/com/szymczak/utils/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.problem_3">
+  <component name="RunManager" selected="Python.problem_4">
     <configuration name="problem_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,6 +116,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="problem_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task4/problem_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,8 +160,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.problem_3" />
+        <item itemvalue="Python.problem_4" />
         <item itemvalue="Python.utils" />
+        <item itemvalue="Python.problem_3" />
         <item itemvalue="Python.problem_2" />
         <item itemvalue="Python.problem_1" />
       </list>
@@ -173,38 +194,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1579" height="280" key="GridCell.Tab.0.bottom" timestamp="1603439325322">
+    <state width="1579" height="280" key="GridCell.Tab.0.bottom" timestamp="1603458092503">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="280" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1603439325322" />
-    <state width="1579" height="280" key="GridCell.Tab.0.center" timestamp="1603439325322">
+    <state width="1579" height="280" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1603458092503" />
+    <state width="1579" height="280" key="GridCell.Tab.0.center" timestamp="1603458092503">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="280" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1603439325322" />
-    <state width="1579" height="280" key="GridCell.Tab.0.left" timestamp="1603439325322">
+    <state width="1579" height="280" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1603458092503" />
+    <state width="1579" height="280" key="GridCell.Tab.0.left" timestamp="1603458092503">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="280" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1603439325322" />
-    <state width="1579" height="280" key="GridCell.Tab.0.right" timestamp="1603439325322">
+    <state width="1579" height="280" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1603458092503" />
+    <state width="1579" height="280" key="GridCell.Tab.0.right" timestamp="1603458092503">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="280" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1603439325322" />
-    <state width="1579" height="280" key="GridCell.Tab.1.bottom" timestamp="1603439325322">
+    <state width="1579" height="280" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1603458092503" />
+    <state width="1579" height="280" key="GridCell.Tab.1.bottom" timestamp="1603458092503">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="280" key="GridCell.Tab.1.bottom/0.0.1600.870@0.0.1600.870" timestamp="1603439325322" />
-    <state width="1579" height="280" key="GridCell.Tab.1.center" timestamp="1603439325322">
+    <state width="1579" height="280" key="GridCell.Tab.1.bottom/0.0.1600.870@0.0.1600.870" timestamp="1603458092503" />
+    <state width="1579" height="280" key="GridCell.Tab.1.center" timestamp="1603458092503">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="280" key="GridCell.Tab.1.center/0.0.1600.870@0.0.1600.870" timestamp="1603439325322" />
-    <state width="1579" height="280" key="GridCell.Tab.1.left" timestamp="1603439325322">
+    <state width="1579" height="280" key="GridCell.Tab.1.center/0.0.1600.870@0.0.1600.870" timestamp="1603458092503" />
+    <state width="1579" height="280" key="GridCell.Tab.1.left" timestamp="1603458092503">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="280" key="GridCell.Tab.1.left/0.0.1600.870@0.0.1600.870" timestamp="1603439325322" />
-    <state width="1579" height="280" key="GridCell.Tab.1.right" timestamp="1603439325322">
+    <state width="1579" height="280" key="GridCell.Tab.1.left/0.0.1600.870@0.0.1600.870" timestamp="1603458092503" />
+    <state width="1579" height="280" key="GridCell.Tab.1.right" timestamp="1603458092503">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1579" height="280" key="GridCell.Tab.1.right/0.0.1600.870@0.0.1600.870" timestamp="1603439325322" />
+    <state width="1579" height="280" key="GridCell.Tab.1.right/0.0.1600.870@0.0.1600.870" timestamp="1603458092503" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -213,6 +234,11 @@
           <url>file://$PROJECT_DIR$/utils/utils.py</url>
           <line>4</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/task4/problem_4.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

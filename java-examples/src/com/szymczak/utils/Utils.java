@@ -17,4 +17,10 @@ public class Utils {
         }
         return true;
     }
+
+    //Check if String is palindrome
+    public static boolean isPalindrome(String n) {
+        String reversed_n = new StringBuilder(n).reverse().toString();
+        return n.equals(reversed_n);
+    }
 }
