@@ -10,4 +10,4 @@ def get_result(n: int) -> int:
     return square_of_sum_natural_numbers - sum_of_square_natural_numbers
 
 
-print(f'Smallest number divided by all values to n is: {get_result(100)}')
+print(f'Sum of n natural numbers and square of the sum is: {get_result(100)}')
